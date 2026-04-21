@@ -4,15 +4,9 @@ Hey there! 👋
 
 I'm Roshan, an aspiring cybersecurity enthusiast focused on red team operations and ethical hacking.
 
-I enjoy building practical tools that analyze, break, and improve system security.
+I build practical tools to analyze, test, and improve system security, mainly using Python for automation and security-focused projects.
 
-If I find a problem, I try to understand it deeply — and then build something around it.
-
-My main tech stack is Python, and I use it to create security-focused tools and automation scripts.
-
-Some of my projects include a UPI QR Threat Analyzer and file automation tools, with more projects in network scanning and vulnerability analysis coming soon.
-
-I'm currently learning through hands-on projects, open-source contributions, and platforms like Hack The Box.
+I'm continuously learning through hands-on projects, open-source contributions, and platforms like Hack The Box.
 
 ---
 
@@ -20,7 +14,6 @@ I'm currently learning through hands-on projects, open-source contributions, and
 
 - 🔍 Building cybersecurity tools (Python)
 - 🌐 Learning network security & penetration testing
-- 🛠️ Developing a port scanner and future red team tools
 
 ---
 
