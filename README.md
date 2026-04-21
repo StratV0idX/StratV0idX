@@ -16,7 +16,5 @@ I'm continuously learning through hands-on projects, open-source contributions, 
 - Automation & Security Tools  
 
 ---
-
-### 🎯 Goal
-
+ ### Path
 To become a skilled cybersecurity professional specializing in offensive security and real-world threat analysis.
