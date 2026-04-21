@@ -10,13 +10,6 @@ I'm continuously learning through hands-on projects, open-source contributions, 
 
 ---
 
-### What I'm working on
-
-- 🔍 Building cybersecurity tools (Python)
-- 🌐 Learning network security & penetration testing
-
----
-
 ### Interests
 
 - Ethical Hacking  
