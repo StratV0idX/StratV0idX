@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Hey there! 👋
-
 I'm Roshan, an aspiring cybersecurity enthusiast focused on red team operations and ethical hacking.
 
 I build practical tools to analyze, test, and improve system security, mainly using Python for automation and security-focused projects.
