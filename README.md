@@ -16,7 +16,7 @@ I'm currently learning through hands-on projects, open-source contributions, and
 
 ---
 
-### ⚡ What I'm working on
+### What I'm working on
 
 - 🔍 Building cybersecurity tools (Python)
 - 🌐 Learning network security & penetration testing
@@ -24,7 +24,7 @@ I'm currently learning through hands-on projects, open-source contributions, and
 
 ---
 
-### 🧠 Interests
+### Interests
 
 - Ethical Hacking  
 - Red Teaming  
