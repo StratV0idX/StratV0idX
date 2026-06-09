@@ -4,19 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear." alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=StratV0idX">
-    <img src="https://komarev.com/ghpvc/?username=StratV0idX&label=Profile%20views&color=00FFFF&style=flat-square" alt="StratV0idX's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 - 🌱 I'm currently learning offensive security, penetration testing, and exploit development
 - 👯 I'm looking to collaborate on cybersecurity tools and open-source security projects
 - 🤝 I'm looking for help with advanced red team techniques and real-world exploitation skills
 - 🔍 I enjoy building Python-based security automation tools
-
-
+  
 ## 🧠 My Focus Areas
 - Offensive Security
 - Red Teaming
@@ -35,7 +28,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=StratV0idX&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Roshan Jeffrin R's GitHub Trophies" />
 </p>
-
 
 ## 🛠️ Languages & Tools
 
