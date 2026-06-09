@@ -5,10 +5,11 @@
 </p>
 
 ## 📌 About Me
-- 🌱 I'm currently learning offensive security, penetration testing, and exploit development
-- 👯 I'm looking to collaborate on cybersecurity tools and open-source security projects
-- 🤝 I'm looking for help with advanced red team techniques and real-world exploitation skills
-- 🔍 I enjoy building Python-based security automation tools
+
+- 🌱 I'm currently learning offensive security, penetration testing, and exploit development  
+- 🧠 Focused on red team operations and vulnerability research  
+- 🔧 I build Python-based security automation tools  
+- 🎯 Practicing CTFs and Hack The Box labs  
   
 ## 🧠 My Focus Areas
 - Offensive Security
@@ -18,6 +19,12 @@
 - Security Automation
 - CTF Challenges (Hack The Box / TryHackMe)
 
+## 🎯 Current Focus
+
+- Building cybersecurity tools in Python  
+- Learning web application security (OWASP Top 10)  
+- Practicing CTF challenges and Hack The Box labs
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/StratV0idX">
@@ -25,10 +32,11 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=StratV0idX&theme=dark&hide_border=true&cache_seconds=86400" alt="StratV0idX's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=StratV0idX&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Roshan Jeffrin R's GitHub Trophies" />
-</p>
 
+<!-- <p align="center">
+   <img src="https://trophy.ryglcloud.net/?username=StratV0idX&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Roshan Jeffrin R's GitHub Trophies" />
+ </p>
+-->
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages, Database, Tools</h3>
