@@ -24,7 +24,7 @@
 - Building cybersecurity tools in Python  
 - Learning web application security (OWASP Top 10)  
 - Practicing CTF challenges and Hack The Box labs
-- 
+  
 <!-- <p align="center">
    <img src="https://trophy.ryglcloud.net/?username=StratV0idX&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Roshan Jeffrin R's GitHub Trophies" />
  </p>
