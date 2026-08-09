@@ -24,15 +24,7 @@
 - Building cybersecurity tools in Python  
 - Learning web application security (OWASP Top 10)  
 - Practicing CTF challenges and Hack The Box labs
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/StratV0idX">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StratV0idX&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="StratV0idX's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=StratV0idX&theme=dark&hide_border=true&cache_seconds=86400" alt="StratV0idX's GitHub Streak" width="49%" />
-</p>
-
+- 
 <!-- <p align="center">
    <img src="https://trophy.ryglcloud.net/?username=StratV0idX&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Roshan Jeffrin R's GitHub Trophies" />
  </p>
