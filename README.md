@@ -187,7 +187,9 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/roshan-jeffrin-r)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=E63946)](mailto:roshanjeffrinr@gmail.com)
+<a href="mailto:roshanjeffrinr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=E63946" alt="Gmail">
+</a>
 
 </div>
 
