@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=E63946&center=true&vCenter=true&width=700&lines=Offensive+Security+%7C+Red+Teaming+%7C+Exploit+Dev;Building+Python+Security+Automation+Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=E63946&center=true&vCenter=true&width=800&lines=Web+Security+%7C+Bug+Bounty+%7C+Vulnerability+Research;Building+Python+Security+Automation+Tools;Learning+%26+Practicing+Responsible+Disclosure" />
 </p>
 
 <p align="center">
@@ -19,10 +19,14 @@
 
 
 ## 📌 About Me
-- 🌱 Learning **offensive security, pentesting, exploit dev**
-- 🧠 Focused on **red team & vuln research**
-- 🔧 Building **Python security tools**
-- 🎯 CTFs & Hack The Box labs
+
+- 🌱 Learning **Bug Bounty Hunting & Web Application Security**
+- 🎯 Active on **HackerOne & Bugcrowd**
+- 🧪 Completed **18+ PortSwigger Web Security Academy labs**
+- 🔎 Strongest areas: **Path Traversal, OS Command Injection & XSS**
+- 🔧 Building **Python security automation tools**
+- 🏴‍☠️ Practicing with **CTFs, HTB & real-world web applications**
+- 📚 Continuously improving **vulnerability research & responsible disclosure**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -54,12 +58,15 @@
 <summary><b>🧠 My Focus Areas</b></summary>
 <br>
 
-- Offensive Security
-- Red Teaming
-- Penetration Testing
+- Bug Bounty Hunting
+- Web Application Security
 - Vulnerability Research
+- XSS
+- Path Traversal
+- OS Command Injection
 - Security Automation
-- CTF (HTB / TryHackMe)
+- CTF / HTB / TryHackMe
+
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -68,9 +75,14 @@
 <summary><b>🎯 Current Focus</b></summary>
 <br>
 
-- Building Python cyber tools
-- OWASP Top 10
-- CTF & HTB labs
+- Bug Bounty Hunting
+- Web Application Security
+- PortSwigger Web Security Academy
+- XSS & Injection vulnerabilities
+- Path Traversal
+- Vulnerability Research
+- Security Automation with Python
+
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
