@@ -156,7 +156,7 @@
 
 <!-- Certificate 1 -->
 <p align="center">
-  <a href="https://www.credly.com/badges/7ac4679d-5c3c-4633-b2f9-7ffe5a513938">
+  <a href="https://www.credly.com/badges/7a234d76-9c5c-4b31-b59e-7e90a612f938/public_url">
     <b>Cybersecurity Fundamentals</b> - IBM SkillsBuild<br>
   </a>
   <sub>Issued: May 07, 2026</sub>
@@ -166,7 +166,7 @@
 
 <!-- Certificate 2 -->
 <p align="center">
-  <a href="https://www.credly.com/badges/62df8706-b0d0-47e-a073-4563b765d893">
+  <a href="https://www.credly.com/badges/62df6706-0b03-47ce-a973-a545fc762d93/public_url">
     <b>Information Technology Fundamentals</b> - IBM SkillsBuild<br>
   </a>
   <sub>Issued: Jun 18, 2026</sub>
