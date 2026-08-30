@@ -87,40 +87,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details>
-<summary><b>📜 Certifications</b></summary>
-<br>
-
-<div style="background-color:#0D0D0D; width:100%; border-radius:8px; padding:12px 0px; text-align:center; margin-bottom:10px;">
-<h3 style="color:#E63946; margin:0;">🏅 My Certificates</h3>
-</div>
-
-<!-- Certificate 1 -->
-<p align="center">
-  <a href="https://www.credly.com/badges/7ac4679d-5c3c-4633-b2f9-7ffe5a513938">
-    <img src="https://i.ibb.co/your-link-for-cyber-fundamentals.png" width="90%" style="border-radius:8px; border:2px solid #E63946;" />
-  </a>
-  <br>
-  <b>Cybersecurity Fundamentals</b> - IBM SkillsBuild<br>
-  <sub>Issued: May 07, 2026</sub>
-</p>
-
-<br>
-
-<!-- Certificate 2 -->
-<p align="center">
-  <a href="https://www.credly.com/badges/62df8706-b0d0-47e-a073-4563b765d893">
-    <img src="https://i.ibb.co/your-link-for-it-fundamentals.png" width="90%" style="border-radius:8px; border:2px solid #E63946;" />
-  </a>
-  <br>
-  <b>Information Technology Fundamentals</b> - IBM SkillsBuild<br>
-  <sub>Issued: Jun 18, 2026</sub>
-</p>
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </td>
 <td width="50%" valign="top">
 
@@ -177,6 +143,43 @@
     <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StratV0idX&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br>
+
+<div style="background-color:#0D0D0D; width:100%; border-radius:8px; padding:12px 0px; text-align:center; margin-bottom:10px;">
+<h3 style="color:#E63946; margin:0;">🏅 My Certificates</h3>
+</div>
+
+<!-- Certificate 1 -->
+<p align="center">
+  <a href="https://www.credly.com/badges/7ac4679d-5c3c-4633-b2f9-7ffe5a513938">
+    <img src="https://i.ibb.co/your-link-for-cyber-fundamentals.png" width="90%" style="border-radius:8px; border:2px solid #E63946;" />
+  </a>
+  <br>
+  <b>Cybersecurity Fundamentals</b> - IBM SkillsBuild<br>
+  <sub>Issued: May 07, 2026</sub>
+</p>
+
+<br>
+
+<!-- Certificate 2 -->
+<p align="center">
+  <a href="https://www.credly.com/badges/62df8706-b0d0-47e-a073-4563b765d893">
+    <img src="https://i.ibb.co/your-link-for-it-fundamentals.png" width="90%" style="border-radius:8px; border:2px solid #E63946;" />
+  </a>
+  <br>
+  <b>Information Technology Fundamentals</b> - IBM SkillsBuild<br>
+  <sub>Issued: Jun 18, 2026</sub>
+</p>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 </td>
 </tr>
