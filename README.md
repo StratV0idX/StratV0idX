@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=roshan-jeffrin-r&color=E63946&style=flat-square" />
-  <a href="https://github.com/StratV0idX"><img src="https://img.shields.io/github/followers/roshan-jeffrin-r?label=Followers&style=flat-square&color=E63946" /></a>
+  <a href="https://github.com/roshan-jeffrin-r"><img src="https://img.shields.io/github/followers/roshan-jeffrin-r?label=Followers&style=flat-square&color=E63946" /></a>
 </p>
 
 <table>
@@ -40,7 +40,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=StratV0idX&theme=dark&background=0D0D0D&border=E63946&stroke=E63946&ring=E63946&fire=E63946&currStreakNum=E63946&sideNums=F0F0F0&currStreakLabel=E63946&sideLabels=8B949E&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=roshan-jeffrin-r&theme=dark&background=0D0D0D&border=E63946&stroke=E63946&ring=E63946&fire=E63946&currStreakNum=E63946&sideNums=F0F0F0&currStreakLabel=E63946&sideLabels=8B949E&dates=8B949E" />
 </p>
 
 </td>
@@ -139,8 +139,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/StratV0idX">
-    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StratV0idX&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/roshan-jeffrin-r">
+    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roshan-jeffrin-r&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
