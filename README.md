@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StratV0idX&color=E63946&style=flat-square" />
-  <a href="https://github.com/StratV0idX"><img src="https://img.shields.io/github/followers/StratV0idX?label=Followers&style=flat-square&color=E63946" /></a>
+  <img src="https://komarev.com/ghpvc/?username=roshan-jeffrin-r&color=E63946&style=flat-square" />
+  <a href="https://github.com/StratV0idX"><img src="https://img.shields.io/github/followers/roshan-jeffrin-r?label=Followers&style=flat-square&color=E63946" /></a>
 </p>
 
 <table>
