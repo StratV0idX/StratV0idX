@@ -216,7 +216,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=00000&height=70&section=header&text=Languages%20and%20Tools&fontSize=30&fontColor=FF0000&animation=fadeIn" width="150%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000&height=70&section=header&text=Languages%20and%20Tools&fontSize=30&fontColor=FF0000&animation=fadeIn" width="150%" />
 </p>
 
 #### Programming & Markup
